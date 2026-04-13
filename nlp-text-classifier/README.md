@@ -1,10 +1,10 @@
-# 📰 NLP Text Classifier
+# NLP Text Classifier
 
 A modular, CLI-driven text classification pipeline built with **NLTK** and **scikit-learn**. Classifies news headlines/articles into categories like Sports, Tech, Politics, and Entertainment.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 nlp-text-classifier/
@@ -29,7 +29,7 @@ nlp-text-classifier/
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 # 1. Clone the repo
@@ -49,7 +49,7 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk
 
 ---
 
-## 🚀 Usage (CLI)
+##  Usage (CLI)
 
 ### Train a model
 ```bash
@@ -73,7 +73,7 @@ python cli.py predict --file data/raw/sample_texts.txt --model models/classifier
 
 ---
 
-## 🧠 Models Available
+##  Models Available
 
 | Model | Notes |
 |-------|-------|
@@ -89,7 +89,7 @@ python cli.py train --data data/raw/news.csv --model-type svm --model-out models
 
 ---
 
-## 📊 Evaluation Output
+##  Evaluation Output
 
 ```
 Classification Report:
@@ -104,7 +104,7 @@ entertainment    0.92      0.91      0.91       105
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 pytest tests/ -v
@@ -112,7 +112,7 @@ pytest tests/ -v
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - scikit-learn
@@ -124,6 +124,6 @@ pytest tests/ -v
 
 ---
 
-## 📄 License
+##  License
 
 MIT
