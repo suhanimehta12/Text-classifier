@@ -1,0 +1,13 @@
+# Sample texts for batch prediction (one per line)
+# Lines starting with '#' are ignored
+
+Scientists unveil breakthrough in renewable energy storage
+The team lost the final on penalties after extra time
+New legislation targets social media misinformation
+Hollywood blockbuster breaks opening weekend box office record
+Startup creates AI tool that writes code automatically
+Opposition leader demands government accountability hearing
+Marathon runner smashes course record by four minutes
+Streaming platform announces ten new original series
+Cybersecurity firm discovers critical vulnerability in routers
+Stadium fills to capacity for championship rematch
